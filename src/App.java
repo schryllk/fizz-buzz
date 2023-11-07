@@ -1,5 +1,9 @@
 import java.util.List;
 import java.util.Scanner;
+/*
+* Main method for FizzBuzz
+* @author Schryll Schuch
+*/
 
 public class App {
    
